@@ -26,7 +26,7 @@
                                     Personal
                                 </base-button>
 
-                                <base-button type="neutral" tag="a" href="#/registerbusiness">
+                                <base-button type="neutral border-blue" tag="a" href="#/registerbusiness">
                                     Business
                                 </base-button>
                             </div>

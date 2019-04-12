@@ -4,7 +4,7 @@
             <div class="col px-0">
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-7 text-center pt-lg">
-                        <h1 class="display-1 mb-0 mb-5 mt-1">Success!</h1>
+                        <h2 class="h2-custom primary-text mb-0 mb-5 mt-1">Request Sent!</h2>
                           <div class="col-lg-3 order-lg-2">
                                 <div class="card-profile-image">
                                     <a href="#">
@@ -35,7 +35,7 @@
                 </div>
                 <div class="row align-items-center">
                     <div class="col-sm-4 text-center">
-                        <span class="alpha-7">Request sent</span>
+                        <!-- <span class="alpha-7">Request sent</span> -->
                     </div>
                 </div>
             </div>

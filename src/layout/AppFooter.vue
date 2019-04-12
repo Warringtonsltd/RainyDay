@@ -1,11 +1,11 @@
 <template>
     <footer class="footer has-cards">
         <div class="container">
-            <div class="row row-grid align-items-center my-md">
+            <div class="row row-grid align-items-center my-md text-center">
                 <div class="col-lg-6">
                     <h4 class="mb-0 font-weight-light">Get in touch or follow us @</h4>
                 </div>
-                <div class="col-lg-6 text-lg-center btn-wrapper">
+                <div class="col-lg-6 text-lg-center text-center align-items-center btn-wrapper">
                     <a target="_blank" href="#"
                        class="btn btn-neutral btn-icon-only btn-twitter btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Follow us">
@@ -16,7 +16,7 @@
                        data-original-title="Like us">
                         <i class="fa fa-facebook-square"></i>
                     </a>
-                    <a target="_blank" href="#"
+                    <!-- <a target="_blank" href="#"
                        class="btn btn-neutral btn-icon-only btn-dribbble btn-lg btn-round" data-toggle="tooltip"
                        data-original-title="Follow us">
                         <i class="fa fa-dribbble"></i>
@@ -25,7 +25,7 @@
                        class="btn btn-neutral btn-icon-only btn-github btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Star on Github">
                         <i class="fa fa-github"></i>
-                    </a>
+                    </a> -->
                 </div>
             </div>
             <hr>

@@ -2,6 +2,7 @@ import Vue from "vue";
 import Router from "vue-router";
 import AppHeader from "./layout/AppHeader";
 import BlueHeader from "./layout/BlueHeader";
+import FakeHeader from "./layout/FakeHeader";
 import AppFooter from "./layout/AppFooter";
 import Components from "./views/Components.vue";
 import Home from "./views/Home.vue";
@@ -74,7 +75,7 @@ export default new Router({
       path: "/contacts",
       name: "contacts",
       components: {
-        header: BlueHeader,
+        header: FakeHeader,
         default: Contacts,
         footer: AppFooter
       }

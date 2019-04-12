@@ -16,7 +16,7 @@
             <div class="col px-0 text-center">
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-7 text-center pt-lg">
-                        <h1 class="display-1 mb-0 mb-5">Send your request</h1>
+                        <h2 class="h2-custom mb-0 mb-5 primary-text" style="margin-top:-60px">Send your request</h2>
                          <div class="nav-wrapper text-center">
                              <img v-lazy="'img/icons/logos.png'" style="width:90%;" />
                         </div>

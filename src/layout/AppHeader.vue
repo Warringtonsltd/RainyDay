@@ -99,7 +99,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     </a>
                 </li> -->
                 <li class="nav-item d-none d-lg-block ml-lg-4">
-                    <a href="#" target="_blank"
+                    <a href="#/register"
                        class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-user-plus mr-2"></i>

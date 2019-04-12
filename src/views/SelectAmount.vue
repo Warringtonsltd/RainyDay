@@ -17,7 +17,7 @@
         </div>
     </nav>
         <div>
-            <div class="container mb-5 mt-4">
+            <div class="container mt-4">
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mt-4">
                         
@@ -31,7 +31,7 @@
                         <base-input placeholder="Enter Amount">
                         </base-input>
                         
-                        <div class="col-12 text-center mt-4">
+                        <div class="col-12 text-center mt-5">
                         <base-button class="btn-1" tag="a" href="#/source" type="primary">Next</base-button>
                         </div>
                     </div>

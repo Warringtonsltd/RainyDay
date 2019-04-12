@@ -16,24 +16,24 @@
             <div class="col px-0 mb-5">
                 <div class="row justify-content-center align-items-center">
                     <div class="col-lg-7 text-center pt-lg">
-                        <img src="img/brand/logoclear.png" style="width: 200px;" class="img-fluid">
+                        <img src="img/brand/logoclear.png" style="width: 200px;" class="img-fluid mb-5">
                         <!-- <p class="lead text-white mt-4 mb-1">Rainy Day Cash</p> -->
-                        <p class="lead text-white mt-3 mb-5">Cash When you need it.</p>
-                        <p class="lead text-white mt-5 mb-extra-6">Request Cash directly to your Bank Account</p>
+                        <p class="lead text-white mt-5 mb-2">Cash When you need it.</p>
+                        <p class="lead text-white mt-3 mb-extra-6">Request Cash directly to your Bank Account</p>
                         
                         <div class="btn-wrapper mb-extra-6">
                             <base-button tag="a"
                                          href="#/selectamount"
-                                         class="mb-3 mb-sm-0"
+                                         class="mb-3 mb-sm-0 custom-btn"
                                          type="info"
-                                         icon="fa fa-bolt">
+                                         icon="fa fa-3x fa-bolt">
                                 Get Cash
                             </base-button>
                             <base-button tag="a"
                                          href="#/profile"
-                                         class="mb-3 mb-sm-0 text-primary"
+                                         class="mb-3 mb-sm-0 text-primary custom-btn"
                                          type="white"
-                                         icon="fa fa-user">
+                                         icon="fa fa-3x fa-user">
                                 My Account
                             </base-button>
                         </div>

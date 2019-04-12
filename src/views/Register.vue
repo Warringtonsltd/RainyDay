@@ -22,7 +22,7 @@
                                 <small>Sign up as</small>
                             </div>
                             <div class="btn-wrapper text-center">
-                                <base-button type="neutral" tag="a" href="#/register">
+                                <base-button type="neutral border-blue" tag="a" href="#/register">
                                     Personal
                                 </base-button>
 

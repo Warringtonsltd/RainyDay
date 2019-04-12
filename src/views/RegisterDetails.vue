@@ -40,21 +40,21 @@
                                     <div class="col-12">
                                         <base-input alternative
                                                 class="mb-3"
-                                                placeholder="Account Name"
+                                                placeholder="Account Beneficiary"
                                                 addon-left-icon="ni ni-single-02">
                                         </base-input>
                                     </div>
                                     <div class="col-12">
                                         <base-input alternative
                                                     class="mb-3"
-                                                    placeholder="Account Beneficiary"
+                                                    placeholder="Account name"
                                                     addon-left-icon="ni ni-credit-card">
                                         </base-input>
                                     </div>
                                     <div class="col-12">
                                         <base-input alternative
                                         class="mb-"
-                                        placeholder="Swift Code"
+                                        placeholder="Swift Code/BIC"
                                         addon-left-icon="ni ni-calendar-grid-58">
                                         </base-input>
                                     </div>
@@ -68,14 +68,7 @@
                                     <div class="col-12">
                                         <base-input alternative
                                         class="mb-"
-                                        placeholder="IBA Routing Number"
-                                        addon-left-icon="ni ni-calendar-grid-58">
-                                        </base-input>
-                                    </div>
-                                     <div class="col-12">
-                                        <base-input alternative
-                                        class="mb-"
-                                        placeholder="AVA Routine Number"
+                                        placeholder="ABA Routing Number"
                                         addon-left-icon="ni ni-calendar-grid-58">
                                         </base-input>
                                     </div>
